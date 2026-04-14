@@ -28,7 +28,12 @@ Business analyst focused on turning messy data into decisions that matter. I wor
 
 ## Featured Projects
 
+<div align="center">
+
 <img src="assets/venturo-logo.png" alt="Venturo Electronics" width="360"/>
+
+</div>
+
 
 ### Venturo Electronics — Four-Year Performance Analysis
 
@@ -48,7 +53,11 @@ Business analyst focused on turning messy data into decisions that matter. I wor
 
 ---
 
+<div align="center">
+
 <img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" width="120"/>
+
+</div>
 
 ### San Diego Regional Medical Center — Executive KPI Report
 
