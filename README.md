@@ -34,7 +34,7 @@ Business analyst focused on turning messy data into decisions that matter. I wor
 
 <div align="center">
 
-<img src="assets/venturo-logo.png" alt="Venturo Electronics" width="360"/>
+<img src="assets/venturo-logo.png" alt="Venturo Electronics" width="220"/>
 
 </div>
 
@@ -59,7 +59,7 @@ Business analyst focused on turning messy data into decisions that matter. I wor
 
 <div align="center">
 
-<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" width="120"/>
+<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" width="200"/>
 
 </div>
 
