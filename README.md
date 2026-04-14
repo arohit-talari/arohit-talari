@@ -16,6 +16,8 @@ Business analyst focused on turning messy data into decisions that matter. I wor
 
 ## Tools & Technologies
 
+<div align="center">
+
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -23,6 +25,8 @@ Business analyst focused on turning messy data into decisions that matter. I wor
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Workday](https://img.shields.io/badge/Workday-F7981D?style=flat-square&logo=workday&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+
+</div>
 
 ---
 
