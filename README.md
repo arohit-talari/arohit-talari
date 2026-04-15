@@ -10,7 +10,14 @@
 
 ---
 
-Business analyst focused on turning messy data into decisions that matter. I work in Excel, SQL, and Tableau — and I think carefully about how findings are communicated before I think about how they're calculated. Project experience spanning retail and healthcare — open to wherever the data takes me next. Competitive by nature, whether that's in the gym, on the court, or in the data.
+The hardest part of any analysis isn't the data — it's the question. When a stakeholder presents an undefined problem, I don't reach for the data first. I reduce it to what's actually knowable, start there, and build forward. One step, then the next. Before long the answer starts to take shape — not because I forced it, but because I trusted the process enough to let it.
+
+That instinct developed when I was an undergraduate student of finance — learning how every lever in a financial statement connects to another, how a single misunderstood variable unravels an entire model. Clean documentation wasn't a habit I was taught. It was how I learned to think. It still is.
+
+I don't skip steps. I don't rush conclusions. Every finding is traceable — and everything I build can be opened and questioned by anyone in the room.
+
+The hardest part is knowing when to stop — there's always another layer worth investigating, uncovering, and understanding.
+
 
 ---
 
