@@ -50,8 +50,6 @@ The hardest part is knowing when to stop — there's always another layer worth 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
-<br>
-
 **Venturo Electronics — Four-Year Performance Analysis**
 
 > Venturo Electronics had four years of transaction data and no framework for understanding it. The engagement started with a blank slate — no defined metrics, no loyalty analysis, no regional view. It ended with a diagnosis.
@@ -59,7 +57,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 | | |
 |:--|:--|
 | **Records** | 110,000+ |
-| **Data Integrity** | 17 data issues caught, documented, and resolved before a single finding was drawn |
+| **Integrity** | 17 data issues caught, documented, and resolved before a single finding was drawn |
 | **Key Finding** | 41% revenue collapse — macro-induced, not operational |
 | **Opportunity** | $7.7M across 8,823 lapsed customers |
 | **Deliverable** | 13-section business memo structured for the Head of Operations — every recommendation traceable to a specific finding and a specific number |
@@ -71,8 +69,6 @@ The hardest part is knowing when to stop — there's always another layer worth 
 <br>
 
 ---
-
-<br>
 
 <div align="center">
 <img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="200"/>
