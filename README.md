@@ -41,7 +41,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 <br>
 
 <div align="center">
-<img src="assets/venturo-logo.png" alt="Venturo Electronics" height="90"/>
+<img src="assets/venturo-logo.png" alt="Venturo Electronics" height="250"/>
 <br><br>
 <strong>Retail &nbsp;·&nbsp; E-Commerce &nbsp;·&nbsp; Excel &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; SQL</strong>
 </div>
@@ -73,7 +73,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 <br>
 
 <div align="center">
-<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="90"/>
+<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="200"/>
 <br><br>
 <strong>Healthcare &nbsp;·&nbsp; Revenue Cycle &nbsp;·&nbsp; Excel &nbsp;·&nbsp; Tableau</strong>
 </div>
