@@ -19,7 +19,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 --- 
 
-## Tools & Technologies
+### Tools & Technologies
 
 <div align="center">
 
@@ -35,7 +35,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ---
 
-## Featured Projects
+### Featured Projects
 
 <br>
 
@@ -109,7 +109,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ---
 
-## Education
+### Education
 
 | Degree | Institution | Year |
 |:--|:--|:--|
