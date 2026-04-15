@@ -55,10 +55,10 @@ The hardest part is knowing when to stop — there's always another layer worth 
 | Records Analyzed | 110,000+ |
 | Analytical Integrity | 17 data issues caught, documented, and resolved before a single finding was drawn |
 | Key Finding | 41% revenue collapse — macro-induced, not operational |
-| Recovery Opportunity | $7.7M across 8,823 lapsed customers |
+| Opportunity | $7.7M across 8,823 lapsed customers |
 | Deliverable | 13-section business memo structured for the Head of Operations — every recommendation traceable to a specific finding and a specific number |
 
-**Tools:** Excel · SQL · MySQL
+**Tools:** Excel · MySQL · SQL
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/venturo-electronics-analysis)
 
