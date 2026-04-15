@@ -39,11 +39,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ## Featured Projects
 
-<div align="left">
-
-<img src="assets/venturo-logo.png" alt="Venturo Electronics" width="240"/>
-
-</div>
+<p align="center"><img src="assets/venturo-logo.png" alt="Venturo Electronics" width="280"/></p>
 
 ### Venturo Electronics — Four-Year Performance Analysis
 
@@ -63,11 +59,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ---
 
-<div align="left">
-
-<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" width="200"/>
-
-</div>
+<p align="center"><img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" width="200"/></p>
 
 ### San Diego Regional Medical Center — Executive KPI Report
 
