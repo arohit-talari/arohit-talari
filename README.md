@@ -17,7 +17,6 @@ That instinct developed when I was an undergraduate student of finance — learn
 I don't skip steps. I don't rush conclusions. Every finding is traceable — and everything I build can be opened and questioned by anyone in the room.
 
 The hardest part is knowing when to stop — there's always another layer worth investigating, uncovering, and understanding.
-
 <br>
 
 --- 
