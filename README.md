@@ -72,15 +72,15 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ### San Diego Regional Medical Center — Executive KPI Report
 
-> Revenue cycle analysis for a regional medical center — connecting clinical operations to financial outcomes across 36,330 records. Identified $712K in recoverable written-off revenue and quantified a structural denial pattern across emergency and inpatient encounters.
+> SDRMC knew it was losing revenue. Leadership could see the total written off - but not where it was leaking, why it was happening, or how much was actually recoverable. The data existed. The unified view connecting clinical decisions to financial outcomes didn't.
 
 | | |
 |---|---|
 | Records Analyzed | 36,330 across 2018–2024 |
 | Revenue Written Off | $2.6M |
 | Recoverable Revenue | $712K — grounded in SDRMC's own resubmission rates |
-| Emergency Denial Rate | 19.7% |
-| Deliverable | 4-dashboard Tableau report built for CFO and COO consumption |
+| Emergency & Inpatient | highest denial rates, lowest collection per dollar of care delivered |
+| Deliverable | 4-dashboard Tableau report built for CFO and COO consumption — translating six years of fragmented records into a revenue story leadership could act on |
 
 **Tools:** Excel · Tableau
 
