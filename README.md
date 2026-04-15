@@ -48,15 +48,15 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ### Venturo Electronics — Four-Year Performance Analysis
 
-> Performance analysis of a US-based direct-to-consumer electronics retailer across 110,000+ transaction records. Identified that a 41% revenue collapse was macro-induced rather than operational — reframing the entire recovery strategy toward a $7.7M loyalty expansion opportunity.
+> Venturo Electronics had four years of transaction data and no framework for understanding it. The engagement started with a blank slate — no defined metrics, no loyalty analysis, no regional view. It ended with a diagnosis.
 
 | | |
 |---|---|
 | Records Analyzed | 110,000+ |
-| Data Quality Issues Resolved | 17 documented |
+| Analytical Integrity | 17 data issues caught, documented, and resolved before a single finding was drawn |
 | Key Finding | 41% revenue collapse — macro-induced, not operational |
 | Recovery Opportunity | $7.7M across 8,823 lapsed customers |
-| Deliverable | 13-section business memo · 15 visualizations · 12 recommendations |
+| Deliverable | 13-section business memo structured for the Head of Operations — every recommendation traceable to a specific finding and a specific number |
 
 **Tools:** Excel · SQL · MySQL
 
