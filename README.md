@@ -41,9 +41,14 @@ The hardest part is knowing when to stop — there's always another layer worth 
 <br>
 
 <div align="center">
-<img src="assets/venturo-logo.png" alt="Venturo Electronics" height="250"/>
+<img src="assets/venturo-logo.png" alt="Venturo Electronics" height="90"/>
 <br><br>
-<strong>Retail &nbsp;·&nbsp; E-Commerce &nbsp;·&nbsp; Excel &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; SQL</strong>
+<strong>Retail &nbsp;·&nbsp; E-Commerce</strong>
+<br><br>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 </div>
 
 <br>
@@ -73,9 +78,13 @@ The hardest part is knowing when to stop — there's always another layer worth 
 <br>
 
 <div align="center">
-<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="200"/>
+<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="90"/>
 <br><br>
-<strong>Healthcare &nbsp;·&nbsp; Revenue Cycle &nbsp;·&nbsp; Excel &nbsp;·&nbsp; Tableau</strong>
+<strong>Healthcare &nbsp;·&nbsp; Revenue Cycle</strong>
+<br><br>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 </div>
 
 <br>
@@ -117,6 +126,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 *Every recommendation I deliver traces back to a specific finding and a specific number.*
 
 </div>
+
 
 
 
