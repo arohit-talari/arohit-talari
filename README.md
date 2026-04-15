@@ -59,7 +59,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ---
 
-<p align="center"><img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="175"/></p>
+<p align="center"><img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="200"/></p>
 
 ### San Diego Regional Medical Center — Executive KPI Report
 
