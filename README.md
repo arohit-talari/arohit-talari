@@ -104,8 +104,8 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 | Program | Degree | Status | Institution | Year |
 |:--|:--|:--|:--|:--|
-| MS | Applied Business Analytics | **Alumni** | Boston University, Metropolitan College | 2024–2025 |
-| BS | Finance | **Magna Cum Laude** | Arizona State University, W.P. Carey School of Business | 2021–2024 |
+| MS | Applied Business Analytics | **Alumni** | Boston University, Metropolitan College | 2025 |
+| BS | Finance | **Magna Cum Laude** | Arizona State University, W.P. Carey School of Business | 2024 |
 
 ---
 
