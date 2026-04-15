@@ -47,8 +47,8 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 | | |
 |---|---|
-| Records Analyzed | 110,000+ |
-| Analytical Integrity | 17 data issues caught, documented, and resolved before a single finding was drawn |
+| Records | 110,000+ |
+| Data Integrity | 17 data issues caught, documented, and resolved before a single finding was drawn |
 | Key Finding | 41% revenue collapse — macro-induced, not operational |
 | Opportunity | $7.7M across 8,823 lapsed customers |
 | Deliverable | 13-section business memo structured for the Head of Operations — every recommendation traceable to a specific finding and a specific number |
@@ -70,7 +70,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 | Records Analyzed | 36,330 across 2018–2024 |
 | Written Off | $2.6M |
 | Recoverable | $712K — grounded in SDRMC's own resubmission rates |
-| High-Risk Encounters | highest denial rates, lowest collection per dollar of care delivered |
+| High-Risk | Emergency and Inpatient encounters carry the highest denial rates and lowest collection per dollar of care delivered |
 | Deliverable | 4-dashboard Tableau report built for CFO and COO consumption — translating six years of fragmented records into a revenue story leadership could act on |
 
 **Tools:** Excel · Tableau
