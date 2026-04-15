@@ -8,7 +8,7 @@
 
 </div>
 
----
+<br>
 
 The hardest part of any analysis isn't the data — it's the question. When a stakeholder presents an undefined problem, I don't reach for the data first. I reduce it to what's actually knowable, start there, and build forward. One step, then the next. Before long the answer starts to take shape — not because I forced it, but because I trusted the process enough to let it.
 
@@ -18,28 +18,43 @@ I don't skip steps. I don't rush conclusions. Every finding is traceable — and
 
 The hardest part is knowing when to stop — there's always another layer worth investigating, uncovering, and understanding.
 
+<br>
 
 ---
 
 ## Tools & Technologies
 
-<div align="center">
-
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Workday](https://img.shields.io/badge/Workday-F7981D?style=flat-square&logo=workday&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
 
-</div>
-
 ---
 
 ## Featured Projects
 
-<p align="center"><img src="assets/venturo-logo.png" alt="Venturo Electronics" height="250"/></p>
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
+<br>
+<img src="assets/venturo-logo.png" alt="Venturo Electronics" height="60"/>
+<br><br>
+<strong>Retail · E-Commerce</strong>
+<br><br>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/venturo-electronics-analysis)
+
+</td>
+<td width="65%" valign="top">
 
 ### Venturo Electronics — Four-Year Performance Analysis
 
@@ -47,19 +62,37 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 | | |
 |---|---|
-| Records | 110,000+ |
-| Data Integrity | 17 data issues caught, documented, and resolved before a single finding was drawn |
-| Key Finding | 41% revenue collapse — macro-induced, not operational |
-| Opportunity | $7.7M across 8,823 lapsed customers |
-| Deliverable | 13-section business memo structured for the Head of Operations — every recommendation traceable to a specific finding and a specific number |
+| **Records** | 110,000+ |
+| **Data Integrity** | 17 data issues caught, documented, and resolved before a single finding was drawn |
+| **Key Finding** | 41% revenue collapse — macro-induced, not operational |
+| **Opportunity** | $7.7M across 8,823 lapsed customers |
+| **Deliverable** | 13-section business memo structured for the Head of Operations — every recommendation traceable to a specific finding and a specific number |
 
-**Tools:** Excel · MySQL · SQL
+</td>
+</tr>
+</table>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/venturo-electronics-analysis)
+<br>
 
----
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
+<br>
+<img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="60"/>
+<br><br>
+<strong>Healthcare · Revenue Cycle</strong>
+<br><br>
 
-<p align="center"><img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="200"/></p>
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+<br>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/san-diego-regional-medical-center-kpi-report)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
+
+</td>
+<td width="65%" valign="top">
 
 ### San Diego Regional Medical Center — Executive KPI Report
 
@@ -67,16 +100,15 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 | | |
 |---|---|
-| Records Analyzed | 36,330 across 2018–2024 |
-| Written Off | $2.6M |
-| Recoverable | $712K — grounded in SDRMC's own resubmission rates |
-| High-Risk | Emergency and Inpatient encounters carry the highest denial rates and lowest collection per dollar of care delivered |
-| Deliverable | 4-dashboard Tableau report built for CFO and COO consumption — translating six years of fragmented records into a revenue story leadership could act on |
+| **Records** | 36,330 across 2018–2024 |
+| **Written Off** | $2.6M |
+| **Recoverable** | $712K — grounded in SDRMC's own resubmission rates |
+| **High-Risk** | Highest denial rates, lowest collection per dollar of care delivered |
+| **Deliverable** | 4-dashboard Tableau report built for CFO and COO consumption — translating six years of fragmented records into a revenue story leadership could act on |
 
-**Tools:** Excel · Tableau
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/san-diego-regional-medical-center-kpi-report)
-[![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,7 +116,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| MS, Applied Business Analytics | Boston University, Metropolitan College | 2024–2025 |
+| MS, Applied Business Analytics | Boston University | 2024–2025 |
 | BS, Finance — *Magna Cum Laude* | Arizona State University, W.P. Carey School of Business | 2021–2024 |
 
 ---
@@ -94,5 +126,6 @@ The hardest part is knowing when to stop — there's always another layer worth 
 *Every recommendation I deliver traces back to a specific finding and a specific number.*
 
 </div>
+
 
 
