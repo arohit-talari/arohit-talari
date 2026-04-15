@@ -44,8 +44,6 @@ The hardest part is knowing when to stop — there's always another layer worth 
 <img src="assets/venturo-logo.png" alt="Venturo Electronics" width="240"/>
 
 </div>
-
-
 ### Venturo Electronics — Four-Year Performance Analysis
 
 > Venturo Electronics had four years of transaction data and no framework for understanding it. The engagement started with a blank slate — no defined metrics, no loyalty analysis, no regional view. It ended with a diagnosis.
@@ -69,7 +67,6 @@ The hardest part is knowing when to stop — there's always another layer worth 
 <img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" width="200"/>
 
 </div>
-
 ### San Diego Regional Medical Center — Executive KPI Report
 
 > SDRMC knew it was losing revenue. Leadership could see the total written off — but not where it was leaking, why it was happening, or how much was actually recoverable. The data existed. The unified view connecting clinical decisions to financial outcomes didn't.
@@ -77,9 +74,9 @@ The hardest part is knowing when to stop — there's always another layer worth 
 | | |
 |---|---|
 | Records Analyzed | 36,330 across 2018–2024 |
-| Revenue Written Off | $2.6M |
-| Recoverable Revenue | $712K — grounded in SDRMC's own resubmission rates |
-| Emergency & Inpatient | highest denial rates, lowest collection per dollar of care delivered |
+| Written Off | $2.6M |
+| Recoverable | $712K — grounded in SDRMC's own resubmission rates |
+| High-Risk Encounters | highest denial rates, lowest collection per dollar of care delivered |
 | Deliverable | 4-dashboard Tableau report built for CFO and COO consumption — translating six years of fragmented records into a revenue story leadership could act on |
 
 **Tools:** Excel · Tableau
