@@ -111,7 +111,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 <div align="center">
 
-*Every recommendation I deliver traces back to a specific finding and a specific number.*
+*Good data is common. Good questions are not.*
 
 </div>
 
