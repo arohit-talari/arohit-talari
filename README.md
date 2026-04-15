@@ -39,7 +39,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ## Featured Projects
 
-<p align="center"><img src="assets/venturo-logo.png" alt="Venturo Electronics" height="175"/></p>
+<p align="center"><img src="assets/venturo-logo.png" alt="Venturo Electronics" height="225"/></p>
 
 ### Venturo Electronics — Four-Year Performance Analysis
 
