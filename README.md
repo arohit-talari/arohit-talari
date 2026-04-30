@@ -71,6 +71,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 </div>
 
+
 **San Diego Regional Medical Center — Executive KPI Report**
 
 > SDRMC knew it was losing revenue. Leadership could see the total written off — but not where it was leaking, why it was happening, or how much was actually recoverable. The data existed. The unified view connecting clinical decisions to financial outcomes didn't.
@@ -88,6 +89,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/san-diego-regional-medical-center-kpi-report)
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
 </div>
+
 
 **SQL Portfolio - Data Cleaning & Exploratory Data Analysis**
 
