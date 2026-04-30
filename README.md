@@ -71,6 +71,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 </div>
 
+---
 
 ### **San Diego Regional Medical Center — Executive KPI Report**
 
@@ -90,6 +91,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
 </div>
 
+--- 
 
 ### **SQL Portfolio - Data Cleaning & Exploratory Data Analysis**
 
