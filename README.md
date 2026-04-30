@@ -18,9 +18,7 @@ I don't skip steps. I don't rush conclusions. When the work is done, it doesn't 
 
 The pull of unfinished work is real — even after building a comprehensive analysis, the instinct is always that one more stone could still be turned. That's not inefficiency. That's my work held to its highest standard — when someone opens it after I've left the room, everything they need is already there.
 
----
-
-### Tools & Technologies
+## Tools & Technologies
 
 <div align="center">
 
@@ -31,12 +29,9 @@ The pull of unfinished work is real — even after building a comprehensive anal
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Workday](https://img.shields.io/badge/Workday-F7981D?style=for-the-badge&logo=workday&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-
 </div>
 
----
-
-### Featured Projects
+## Featured Projects
 
 <div align="center">
 <img src="assets/venturo-logo.png" alt="Venturo Electronics" height="225"/>
@@ -64,10 +59,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 <div align="center">
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/venturo-electronics-analysis)
-
 </div>
-
----
 
 <div align="center">
 <img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="200"/>
@@ -95,10 +87,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/san-diego-regional-medical-center-kpi-report)
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arohit.talari/viz/SanDiegoRegionalMedicalCenter-ExecutiveKPIReport/KPIReport)
-
 </div>
-
----
 
 **SQL Portfolio - Data Cleaning & Exploratory Data Analysis**
 
@@ -113,24 +102,18 @@ The pull of unfinished work is real — even after building a comprehensive anal
 <div align="center">
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/sql-portfolio)
-
 </div>
 
----
-
-### Education
+## Education
 
 | Degree | Institution | Year |
 |:--|:--|:--|
 | MS, Applied Business Analytics | Boston University, Metropolitan College | 2025 |
 | BS, Finance — _Magna Cum Laude_ | Arizona State University, W.P. Carey School of Business | 2024 |
 
----
-
 <div align="center">
 
 *Good data is common. Good questions are not.*
-
 </div>
 
 
