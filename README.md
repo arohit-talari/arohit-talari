@@ -120,10 +120,10 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ### Education
 
-| Degree | Status | Institution | Year |
-|:--|:--|:--|:--|
-| MS - Applied Business Analytics | **Alumni** | Boston University, Metropolitan College | 2025 |
-| BS - Finance | **Magna Cum Laude** | Arizona State University, W.P. Carey School of Business | 2024 |
+| Degree | Institution | Year |
+|:--|:--|:--|
+| MS, Applied Business Analytics | Boston University, Metropolitan College | 2025 |
+| BS, Finance — _Magna Cum Laude_ | Arizona State University, W.P. Carey School of Business | 2024 |
 
 ---
 
