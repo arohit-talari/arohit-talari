@@ -102,7 +102,7 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 **SQL Portfolio - Data Cleaning & Exploratory Data Analysis**
 
-> Most analysts use SQL to pull data. This portfolio uses it to answer questions — each project starting with a defined business problem, structured through deliberate data preparation, and worked through systematic analysis until the data had something specific to say. Every decision documented with the reasoning behind it.
+> Most analysts use SQL to pull data. This portfolio uses it to answer questions — each project starting with a defined business problem, structured through deliberate data preparation, and worked through systematic analysis until a specific, defensible answer emerged. Every decision documented with the reasoning behind it.
 
 | | |
 |:--|:--|
