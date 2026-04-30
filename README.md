@@ -100,15 +100,15 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ---
 
-**SQL Portfolio** 
+**SQL Portfolio - Data Cleaning & Transformation · Exploratory Data Analysis**
+
+> Most analysts use SQL to pull data. This portfolio uses it to answer questions — each project starting with a defined business problem, structured through deliberate data preparation, and worked through systematic analysis until the data had something specific to say. Every decision documented with the reasoning behind it.
 
 | | |
 |:--|:--|
-| **Projects** | Home Credit Group · Olist |
-| **Scale** | **Home Credit**: 307,511 records · **Olist**: 99,441 orders 
-| **Domain** | Finance · Credit Risk · E-Commerce · Marketplace Operations |
-| **Approach** | Every analytical decision documented with reasoning — not just the code | 
-
+| **Projects** | Credit Risk Analysis · E-Commerce Marketplace Analysis |
+| **Analytical Skills** | Data Cleaning · NULL Handling · Bivariate Analysis · Threshold Analysis · Risk Segmentation · EDA
+| **SQL Techniques** | Relational Joins · Subquery Design · Window Functions · Aggregation · Conditional Logic |
 
 ---
 
