@@ -10,7 +10,7 @@
 
 <br>
 
-The hardest part of any analysis isn't the data — it's the question. When a stakeholder presents an undefined problem, I don't reach for the data first. I reduce it to what's actually knowable, start there, and build forward. Before long the answer starts to take shape — not because I forced it, but because I trusted the process enough to let it.
+The hardest part of any analysis isn't the data — it's the question. When a stakeholder presents an undefined problem, I don't reach for the data first — I work to understand what the problem is actually measuring, identify which dimensions are driving the metric, and only then begin the analysis on ground I've already prepared. Before long the answer starts to take shape — not because I forced it, but because that's what a disciplined process surfaces.
 
 That instinct developed when I was an undergraduate student of finance — learning how every lever in a financial statement connects to another, how a single misunderstood variable unravels an entire model. Clean documentation wasn't a habit I was taught. It was how I learned to think. It still is.
 
