@@ -100,6 +100,18 @@ The hardest part is knowing when to stop — there's always another layer worth 
 
 ---
 
+**SQL Portfolio** 
+
+| | |
+|:--|:--|
+| **Projects** | Home Credit Group — Borrower Risk Profiling · Olist — Marketplace Risk Analysis |
+| **Scale** | Home Credit: 307,511 records · Olist: 99,441 orders 
+| **Domain** | Finance · Credit Risk · E-Commerce · Marketplace Operations |
+| **Approach** | Every analytical decision documented with reasoning — not just the code | 
+
+
+---
+
 ### Education
 
 | Degree | Status | Institution | Year |
