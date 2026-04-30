@@ -83,7 +83,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | **Written Off** | $2.6M |
 | **Recoverable** | $712K — grounded in SDRMC's own resubmission rates |
 | **High-Risk** | Emergency & Inpatient — highest operating cost, lowest revenue category · margin compressed from both ends  |
-| **Deliverable** | 4-dashboard Tableau report · CFO and COO level · six years of fragmented records unified into a single revenue narrative |
+| **Deliverable** | 4-dashboard Tableau report · CFO & COO level · six years of fragmented records unified into a single revenue narrative |
 
 <div align="center">
 
