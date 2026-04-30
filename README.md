@@ -61,6 +61,8 @@ The pull of unfinished work is real — even after building a comprehensive anal
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/venturo-electronics-analysis)
 </div>
 
+---
+
 <div align="center">
 <img src="assets/sdrmc-logo.png" alt="San Diego Regional Medical Center" height="200"/>
 <br><br>
@@ -70,8 +72,6 @@ The pull of unfinished work is real — even after building a comprehensive anal
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 </div>
-
----
 
 ### **San Diego Regional Medical Center — Executive KPI Report**
 
