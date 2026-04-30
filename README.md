@@ -12,11 +12,11 @@
 
 The hardest part of any analysis isn't the data — it's the question. When a stakeholder presents an undefined problem, I don't reach for the data first — I work to understand what the problem is actually measuring, identify which dimensions are driving the metric, and only then begin the analysis on ground I've already prepared. Before long the answer starts to take shape — not because I forced it, but because that's what a disciplined process surfaces.
 
-That instinct developed when I was an undergraduate student of finance — learning how every lever in a financial statement connects to another, how a single misunderstood variable unravels an entire model. Clean documentation wasn't a habit I was taught. It was how I learned to think. It still is.
+That instinct was forged in finance — where I first learned that breaking a complex problem into phases isn't just good practice, it's cognitive architecture. When every step has its own scope, you're never carrying the whole problem at once. Errors surface within a phase rather than compounding across the entire analysis. Clean documentation wasn't a habit I was taught. It was the system I built to think clearly. It still is.
 
-I don't skip steps. I don't rush conclusions. Every finding is traceable — and everything I build can be opened and questioned by anyone in the room.
+I don't skip steps. I don't rush conclusions. When the work is done, it doesn't need me in the room to explain it — it speaks to the analyst reviewing it, the team acting on it, and the stakeholder who first raised the concern.
 
-The hardest part is knowing when to stop — there's always another layer worth investigating, uncovering, and understanding.
+The pull of unfinished work is real — even after building a comprehensive analysis, the instinct is always that one more stone could still be turned. That's not inefficiency. That's my work held to its highest standard — when someone opens it after I've left the room, everything they need is already there.
 
 ---
 
