@@ -51,10 +51,10 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | | |
 |:--|:--|
 | **Records** | 110,000+ |
-| **Integrity** | 17 data issues caught, documented, and resolved before a single finding was drawn |
+| **Integrity** | 17 issues — caught, documented, and resolved before a single finding was drawn |
 | **Key Finding** | 41% revenue collapse — macro-induced, not operational |
 | **Opportunity** | $7.7M across 8,823 lapsed customers |
-| **Deliverable** | 13-section business memo structured for the Head of Operations — every recommendation traceable to a specific finding and a specific number |
+| **Deliverable** | 13-section business memo · 12 recommendations · every finding traceable to a specific number |
 
 <div align="center">
 
@@ -82,8 +82,8 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | **Records** | 36,330 across 2018–2024 |
 | **Written Off** | $2.6M |
 | **Recoverable** | $712K — grounded in SDRMC's own resubmission rates |
-| **High-Risk** | Highest denial rates, lowest collection per dollar of care delivered |
-| **Deliverable** | 4-dashboard Tableau report built for CFO and COO consumption — translating six years of fragmented records into a revenue story leadership could act on |
+| **High-Risk** | Emergency & Inpatient — highest operating cost, lowest revenue category · margin compressed from both ends  |
+| **Deliverable** | 4-dashboard Tableau report · CFO and COO level · six years of fragmented records unified into a single revenue narrative |
 
 <div align="center">
 
