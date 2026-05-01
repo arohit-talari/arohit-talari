@@ -115,6 +115,8 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | MS, Applied Business Analytics | Boston University, Metropolitan College | 2025 |
 | BS, Finance — _Magna Cum Laude_ | Arizona State University, W.P. Carey School of Business | 2024 |
 
+--- 
+
 <div align="center">
 
 *Good data is common. Good questions are not.*
