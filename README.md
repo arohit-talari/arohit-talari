@@ -119,7 +119,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 <div align="center">
 
-*Good data is common. Good questions are not.*
+*Good analysts find answers. Great ones deliver clarity.*
 </div>
 
 
