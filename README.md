@@ -98,14 +98,14 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 ### **SQL Portfolio - Data Cleaning & Exploratory Data Analysis**
 
-> Most analysts use SQL to pull data. This portfolio uses it to answer questions — each project built around a defined business problem, worked through deliberate data preparation, and resolved through systematic analysis until a specific, defensible answer emerged. Every decision documented with the reasoning behind it.
+> Most analysts use SQL to pull data. This portfolio uses it to answer questions — Home Credit Group couldn't identify which borrowers were actually high-risk, and Olist couldn't see which sellers were quietly concentrating its revenue risk. Both started with messy, fragmented data. Both ended with a specific, defensible answer.
 
 | | |
 |:--|:--|
 | **Projects** | Credit Risk Analysis · E-Commerce Marketplace Analysis |
 | **Analytical Skills** | Data Cleaning · NULL Handling · Bivariate Analysis · Threshold Analysis · Risk Segmentation · EDA
 | **SQL Techniques** | Relational Joins · Subquery Design · Window Functions · Aggregation · Conditional Logic |
-| **Deliverable** | End-to-end analyst workflow - raw data audited, cleaned, and analyzed into executive-ready findings |
+| **Deliverable** | End-to-end analyst workflow — raw data audited, cleaned, and analyzed into executive-ready findings |
 <div align="center">
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/sql-portfolio)
