@@ -95,13 +95,14 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 ### **SQL Portfolio - Data Cleaning & Exploratory Data Analysis**
 
-> Most analysts use SQL to pull data. This portfolio uses it to answer questions — each project starting with a defined business problem, structured through deliberate data preparation, and worked through systematic analysis until a specific, defensible answer emerged. Every decision documented with the reasoning behind it.
+> Most analysts use SQL to pull data. This portfolio uses it to answer questions — each project built around a defined business problem, worked through deliberate data preparation, and resolved through systematic analysis until a specific, defensible answer emerged. Every decision documented with the reasoning behind it.
 
 | | |
 |:--|:--|
 | **Projects** | Credit Risk Analysis · E-Commerce Marketplace Analysis |
 | **Analytical Skills** | Data Cleaning · NULL Handling · Bivariate Analysis · Threshold Analysis · Risk Segmentation · EDA
 | **SQL Techniques** | Relational Joins · Subquery Design · Window Functions · Aggregation · Conditional Logic |
+| **Deliverable** | Data cleaning, transformation, and exploratory analysis - documented end-to-end, from raw data to executive-ready findings |
 
 <div align="center">
 
