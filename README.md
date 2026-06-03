@@ -54,7 +54,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | | |
 |:--|:--|
 | **Records** | 110,000+ |
-| **Integrity** | 17 issues — caught, documented, and resolved before a single finding was drawn |
+| **Integrity** | 17 issues caught, documented, and resolved before a single finding was drawn |
 | **Key Finding** | 41% revenue collapse — macro-induced, not operational |
 | **Opportunity** | $7.7M across 8,823 lapsed customers |
 | **Deliverable** | 13-section business memo · 12 recommendations · every finding traceable to a specific number |
