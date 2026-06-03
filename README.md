@@ -49,7 +49,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 ### **Venturo Electronics — Four-Year Performance Analysis**
 
-> Venturo Electronics had four years of transaction data and no framework for understanding it. The engagement started with a blank slate — no defined metrics, no loyalty analysis, no regional view. It ended with a diagnosis.
+> Venturo Electronics had four years of transaction data and no framework for understanding it. The engagement started with a blank slate: no defined metrics, no loyalty analysis, no regional view. It ended with a diagnosis.
 
 | | |
 |:--|:--|
