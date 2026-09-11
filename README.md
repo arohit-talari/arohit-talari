@@ -33,6 +33,40 @@ The pull of unfinished work is real — even after building a comprehensive anal
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 </div>
 
+## Work Experience
+
+<div align="center">
+<img src="assets/lakshira-logo.png" alt="Lakshira Handwoven Weaves" height="200"/>
+<br><br>
+<strong>Retail &nbsp;·&nbsp; Data Systems & Business Intelligence</strong>
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+</div>
+
+### **Business Analyst — Lakshira Handwoven Weaves**
+
+> Lakshira ran its entire business through a patchwork of disconnected spreadsheets, with no way to answer questions regarding the business's performance. Pricing broke down at the level of basic arithmetic, and nothing existed to catch it before it reached a customer. Brought on as the business's sole analyst, I rebuilt the operation end to end: a unified data model, a guided operational system enforcing the same safeguards a trained analyst would otherwise apply by hand, and a live warehouse and business intelligence layer. What was once unmeasurable now runs on real infrastructure, with every number traceable back to its source.
+
+| | |
+|:--|:--|
+| **Discovery** | 45-question stakeholder discovery (7 business domains) conducted before any technical work began · audited the business's 12 live spreadsheets, cataloging recurring data-entry errors by severity |
+| **Problem** | Across 12 disconnected spreadsheets, no source of truth tracked a unit's cost, price, margin, time on shelf, or its buyer, if sold at all. |
+| **Scale** | Established, revenue-generating small business (2.5 years) · 1,500+ inventory records · 500+ transactions · $200K+ in lifetime revenue |
+| **Delivery** | Unified data model (via master sheet) · normalized MySQL warehouse (AWS RDS) · 3-dashboard Tableau BI layer · 10-operation guided CLI · automated executive reporting |
+| **Validation** | Every layer validated: master-sheet data validation & conditional formatting · ETL integrity checks · dashboard accuracy checks against live data · the CLI stress-tested in a dedicated test mode, validated through structured UAT, and protected by an automated regression suite guarding every future change |
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/lakshira-inventory-management-system)
+</div>
+
+---
+
 ## Featured Projects
 
 <div align="center">
