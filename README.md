@@ -60,8 +60,6 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | **Delivery** | Unified data model (via master sheet) · normalized MySQL warehouse (AWS RDS) · 3-dashboard Tableau BI layer · 10-operation guided CLI · automated executive reporting |
 | **Validation** | Every layer validated: master-sheet data validation & conditional formatting · ETL integrity checks · dashboard accuracy checks against live data · the CLI stress-tested in a dedicated test mode, validated through structured UAT, and protected by an automated regression suite guarding every future change |
 
-*The Python scripts powering the CLI and the ETL (extract, transform, load) pipeline connecting it to the data warehouse were delivered through AI-directed development — a deliberate choice to direct Claude Code as the execution layer rather than write the implementation by hand. I brought domain knowledge gained through direct, hands-on immersion in the business's daily operations, and owned the system architecture and every UX decision, built specifically for a non-technical end user. The result was refined through a manual UAT process I conducted.*
-
 <div align="center">
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arohit-talari/lakshira-inventory-management-system)
