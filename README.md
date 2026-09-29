@@ -130,7 +130,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 --- 
 
-### **SQL Portfolio - Data Cleaning & Exploratory Data Analysis**
+### **SQL Portfolio — Data Cleaning & Exploratory Data Analysis**
 
 > Most analysts use SQL to pull data. This portfolio uses it to answer questions: Home Credit Group couldn't identify which borrowers were actually high-risk, and Olist couldn't see which sellers were quietly concentrating its revenue risk. Both started with messy, fragmented data. Both ended with a specific, defensible answer.
 
