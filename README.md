@@ -31,6 +31,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Workday](https://img.shields.io/badge/Workday-F7981D?style=for-the-badge&logo=workday&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 </div>
 
 ## Work Experience
