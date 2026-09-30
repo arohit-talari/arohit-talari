@@ -55,7 +55,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 | | |
 |:--|:--|
-| **Discovery** | 45-question stakeholder discovery (7 business domains) · audited the business's 12 live workbooks, cataloging recurring data-entry errors by severity |
+| **Discovery** | 45-question stakeholder discovery across 7 business domains · audited the business's 12 live workbooks, cataloging recurring data-entry errors by severity |
 | **Problem** | No data model to hold structured data · no way to break the business down by dimension — only ever a single aggregate view · no way to catch entry errors at the point of entry, only by manually spot-checking after the fact |
 | **Scale** | Established, revenue-generating small business · 2.5 years in operation · 1,500+ inventory records · 500+ transactions · $200K+ in lifetime revenue |
 | **Analysis** | Sell-Through Rate · Inventory Aging & Markdown Strategy · Margin & Pricing Analysis · Customer Segmentation & Loyalty · Period-over-Period Trend Tracking |
