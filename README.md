@@ -57,7 +57,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 |:--|:--|
 | **Discovery** | 45-question stakeholder discovery (7 business domains) conducted before any technical work began · audited the business's 12 live spreadsheets, cataloging recurring data-entry errors by severity |
 | **Problem** | No data model to hold structured data · no way to break the business down by dimension — only ever a single aggregate view · no way to catch entry errors at the point of entry, only by manually spot-checking after the fact |
-| **Scale** | Established, revenue-generating small business · 1,500+ inventory records · 500+ transactions · $200K+ in lifetime revenue |
+| **Scale** | Established, revenue-generating small business · 1.5K+ inventory records · 500+ transactions · $200K+ in lifetime revenue |
 | **Analysis** | Sell-Through Rate · Inventory Aging & Markdown Strategy · Margin & Pricing Analysis · Customer Segmentation & Loyalty · Period-over-Period Trend Tracking |
 | **Delivery** | Unified data model (via master sheet) · normalized MySQL warehouse (AWS RDS) · 3-dashboard Tableau BI layer · 11-operation guided CLI · automated executive reporting |
 | **Validation** | Every layer validated: master-sheet data validation & conditional formatting · ETL integrity checks · dashboard accuracy checks against live data · the CLI stress-tested in a dedicated test mode, validated through structured UAT, and protected by an automated regression suite guarding every future change |
