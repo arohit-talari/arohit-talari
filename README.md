@@ -51,7 +51,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 
 ### **Business Analyst — Lakshira Handwoven Weaves**
 
-> Lakshira ran its entire business through a patchwork of disconnected spreadsheets, with no way to answer questions regarding the business's performance. Pricing broke down at the level of basic arithmetic, and nothing existed to catch it before it reached a customer. Brought on as the business's sole analyst, I rebuilt the operation end to end: a unified data model, a guided operational system enforcing the same safeguards a trained analyst would otherwise apply by hand, and a live warehouse and business intelligence layer. What was once unmeasurable now runs on real infrastructure, with every number traceable back to its source.
+> Lakshira ran its entire business through a patchwork of disconnected workbooks, with no way to answer questions regarding the business's performance. Pricing broke down at the level of basic arithmetic, and nothing existed to catch it before it reached a customer. Brought on as the business's sole analyst, I rebuilt the operation end to end: a unified data model, a guided operational system enforcing the same safeguards a trained analyst would otherwise apply by hand, and a live warehouse and business intelligence layer. What was once unmeasurable now runs on real infrastructure, with every number traceable back to its source.
 
 | | |
 |:--|:--|
