@@ -60,7 +60,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | **Scale** | Established, revenue-generating small business · 2.5 years in operation · 1,500+ inventory records · 500+ transactions · $200K+ in lifetime revenue |
 | **Analysis** | Sell-Through Rate · Inventory Aging & Markdown Strategy · Margin & Pricing Analysis · Customer Segmentation & Loyalty · Period-over-Period Trend Tracking |
 | **Delivery** | Unified master-sheet data model · Normalized MySQL warehouse on AWS RDS · 3-dashboard Tableau BI layer · 11-operation guided CLI · Automated executive reporting |
-| **Validation** | Every layer validated: master-sheet data validation & conditional formatting · ETL integrity checks · Dashboard accuracy checks against live data · CLI stress-tested in a dedicated test mode, validated through structured UAT, and protected by an automated regression suite guarding every future change |
+| **Validation** | Master-sheet data validation & conditional formatting · ETL integrity checks · Dashboard accuracy checks against live data · CLI stress-tested in a dedicated test mode · Validated through structured UAT · Protected by automated regression testing |
 
 <div align="center">
 
