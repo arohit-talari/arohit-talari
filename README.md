@@ -59,7 +59,7 @@ The pull of unfinished work is real — even after building a comprehensive anal
 | **Problem** | Missing structured data model · No database to slice or aggregate data · Business health only visible through manual compilation · Data entry errors caught only via manual spot-checking |
 | **Scale** | Established, revenue-generating small business · 2 years in operation · 1,500+ inventory records · 500+ transactions · $200K+ in lifetime revenue |
 | **Analysis** | Sell-Through Rate · Inventory Aging & Markdown Strategy · Margin & Pricing Analysis · Customer Segmentation & Loyalty · Period-over-Period Trend Tracking |
-| **Delivery** | Unified master-sheet data model · Normalized MySQL warehouse on AWS RDS · 3-dashboard Tableau BI layer · 11-operation guided CLI · Automated executive reporting |
+| **Delivery** | Unified master-sheet data model · Normalized MySQL warehouse on AWS RDS · 3-dashboard Tableau BI layer · 12-operation guided CLI · Automated executive reporting |
 | **Validation** | Master-sheet data validation & conditional formatting · ETL integrity checks · Dashboard accuracy checks against live data · CLI stress-tested in a dedicated test mode · Validated through structured UAT · Protected by automated regression testing |
 
 <div align="center">
